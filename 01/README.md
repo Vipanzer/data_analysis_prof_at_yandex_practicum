@@ -1,4 +1,5 @@
 # Исследование надёжности заёмщиков
+Резервная ссылка для просмотра https://nbviewer.jupyter.org/github/Vipanzer/data_analysis_prof_at_yandex_practicum/blob/main/01/project.ipynb
 
 ## Данные
 Входные данные от банка — статистика о платёжеспособности клиентов:
